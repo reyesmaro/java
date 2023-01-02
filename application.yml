@@ -1,4 +1,3 @@
 microservices:
   payment-service:
-    getPayment:
-      uri: /getpayment/getPayment
+    mode-of-payment: credit-card
