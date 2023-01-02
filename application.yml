@@ -1,0 +1,4 @@
+microservices:
+  payment-service:
+    getPayment:
+      uri: /getpayment/getPayment
