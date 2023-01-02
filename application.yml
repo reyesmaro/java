@@ -1,5 +1,2 @@
-microservices:
-  payment:
-    modeofpayment: credit-card
 user:
   role: Engineer
